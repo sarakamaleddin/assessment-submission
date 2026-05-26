@@ -1,0 +1,127 @@
+2026-05-25T22:06:31: ◇ injected env (2) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+2026-05-25T22:06:32: Server running on port 3001
+2026-05-25T22:06:34: ◇ injected env (2) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+2026-05-25T22:06:35: Server running on port 3001
+2026-05-25T22:06:38: ◇ injected env (2) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+2026-05-25T22:06:38: Server running on port 3001
+2026-05-25T22:06:41: ◇ injected env (2) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+2026-05-25T22:06:41: Server running on port 3001
+2026-05-25T22:06:44: ◇ injected env (2) from .env // tip: ⌘ override existing { override: true }
+2026-05-25T22:06:44: Server running on port 3001
+2026-05-25T22:06:47: ◇ injected env (2) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-25T22:06:47: Server running on port 3001
+2026-05-25T22:06:50: ◇ injected env (2) from .env // tip: ⌘ override existing { override: true }
+2026-05-25T22:06:50: Server running on port 3001
+2026-05-25T22:06:53: ◇ injected env (2) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+2026-05-25T22:06:53: Server running on port 3001
+2026-05-25T22:06:56: ◇ injected env (2) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+2026-05-25T22:06:57: Server running on port 3001
+2026-05-25T22:07:00: ◇ injected env (2) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-25T22:07:00: Server running on port 3001
+2026-05-25T22:07:03: ◇ injected env (2) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+2026-05-25T22:07:03: Server running on port 3001
+2026-05-25T22:07:06: ◇ injected env (2) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+2026-05-25T22:07:06: Server running on port 3001
+2026-05-25T22:07:09: ◇ injected env (2) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-25T22:07:09: Server running on port 3001
+2026-05-25T22:07:12: ◇ injected env (2) from .env // tip: ⌘ enable debugging { debug: true }
+2026-05-25T22:07:12: Server running on port 3001
+2026-05-25T22:07:15: ◇ injected env (2) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+2026-05-25T22:07:15: Server running on port 3001
+2026-05-25T22:07:18: ◇ injected env (2) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+2026-05-25T22:07:19: Server running on port 3001
+2026-05-25T22:07:21: ◇ injected env (2) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+2026-05-25T22:07:22: Server running on port 3001
+2026-05-25T22:07:25: ◇ injected env (2) from .env // tip: ⌘ enable debugging { debug: true }
+2026-05-25T22:07:25: Server running on port 3001
+2026-05-25T22:07:28: ◇ injected env (2) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+2026-05-25T22:07:28: Server running on port 3001
+2026-05-25T22:07:31: ◇ injected env (2) from .env // tip: ⌘ enable debugging { debug: true }
+2026-05-25T22:07:31: Server running on port 3001
+2026-05-25T22:07:34: ◇ injected env (2) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+2026-05-25T22:07:34: Server running on port 3001
+2026-05-25T22:07:37: ◇ injected env (2) from .env // tip: ⌘ enable debugging { debug: true }
+2026-05-25T22:07:37: Server running on port 3001
+2026-05-25T22:07:40: ◇ injected env (2) from .env // tip: ⌘ enable debugging { debug: true }
+2026-05-25T22:07:40: Server running on port 3001
+2026-05-25T22:07:43: ◇ injected env (2) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-25T22:07:44: Server running on port 3001
+2026-05-25T22:07:46: ◇ injected env (2) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+2026-05-25T22:07:47: Server running on port 3001
+2026-05-25T22:07:50: ◇ injected env (2) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-25T22:07:50: Server running on port 3001
+2026-05-25T22:07:53: ◇ injected env (2) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+2026-05-25T22:07:53: Server running on port 3001
+2026-05-25T22:07:56: ◇ injected env (2) from .env // tip: ⌘ suppress logs { quiet: true }
+2026-05-25T22:07:56: Server running on port 3001
+2026-05-25T22:07:59: ◇ injected env (2) from .env // tip: ⌘ suppress logs { quiet: true }
+2026-05-25T22:07:59: Server running on port 3001
+2026-05-25T22:08:02: ◇ injected env (2) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+2026-05-25T22:08:02: Server running on port 3001
+2026-05-25T22:08:05: ◇ injected env (2) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+2026-05-25T22:08:06: Server running on port 3001
+2026-05-25T22:08:09: ◇ injected env (2) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-25T22:08:09: Server running on port 3001
+2026-05-25T22:08:12: ◇ injected env (2) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+2026-05-25T22:08:12: Server running on port 3001
+2026-05-25T22:08:15: ◇ injected env (2) from .env // tip: ⌘ enable debugging { debug: true }
+2026-05-25T22:08:15: Server running on port 3001
+2026-05-25T22:08:39: ◇ injected env (2) from .env // tip: ⌘ override existing { override: true }
+2026-05-25T22:08:39: Server running on port 3001
+2026-05-25T22:08:42: ◇ injected env (2) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+2026-05-25T22:08:42: Server running on port 3001
+2026-05-25T22:08:45: ◇ injected env (2) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+2026-05-25T22:08:45: Server running on port 3001
+2026-05-25T22:08:48: ◇ injected env (2) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+2026-05-25T22:08:48: Server running on port 3001
+2026-05-25T22:08:51: ◇ injected env (2) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-25T22:08:52: Server running on port 3001
+2026-05-25T22:08:54: ◇ injected env (2) from .env // tip: ⌘ suppress logs { quiet: true }
+2026-05-25T22:08:55: Server running on port 3001
+2026-05-25T22:08:58: ◇ injected env (2) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+2026-05-25T22:08:58: Server running on port 3001
+2026-05-25T22:09:01: ◇ injected env (2) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+2026-05-25T22:09:01: Server running on port 3001
+2026-05-25T22:09:04: ◇ injected env (2) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-25T22:09:04: Server running on port 3001
+2026-05-25T22:09:07: ◇ injected env (2) from .env // tip: ⌘ override existing { override: true }
+2026-05-25T22:09:07: Server running on port 3001
+2026-05-25T22:09:10: ◇ injected env (2) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-25T22:09:10: Server running on port 3001
+2026-05-25T22:09:13: ◇ injected env (2) from .env // tip: ⌘ override existing { override: true }
+2026-05-25T22:09:14: Server running on port 3001
+2026-05-25T22:09:17: ◇ injected env (2) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+2026-05-25T22:09:17: Server running on port 3001
+2026-05-25T22:09:20: ◇ injected env (2) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-25T22:09:20: Server running on port 3001
+2026-05-25T22:09:23: ◇ injected env (2) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+2026-05-25T22:09:23: Server running on port 3001
+2026-05-25T22:09:26: ◇ injected env (2) from .env // tip: ⌘ suppress logs { quiet: true }
+2026-05-25T22:09:26: Server running on port 3001
+2026-05-25T22:09:29: ◇ injected env (2) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+2026-05-25T22:09:30: Server running on port 3001
+2026-05-25T22:09:32: ◇ injected env (2) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+2026-05-25T22:09:33: Server running on port 3001
+2026-05-25T22:09:36: ◇ injected env (2) from .env // tip: ◈ encrypted .env [www.dotenvx.com]
+2026-05-25T22:09:36: Server running on port 3001
+2026-05-25T22:09:39: ◇ injected env (2) from .env // tip: ⌘ override existing { override: true }
+2026-05-25T22:09:39: Server running on port 3001
+2026-05-25T22:09:42: ◇ injected env (2) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+2026-05-25T22:09:42: Server running on port 3001
+2026-05-25T22:09:44: GET / null 7ms
+2026-05-25T22:09:45: GET / null 1ms
+2026-05-25T22:09:46: GET / null 1ms
+2026-05-25T22:10:15: GET / null 2ms
+2026-05-25T22:10:19: GET / null 1ms
+2026-05-25T22:10:22: GET / null 1ms
+2026-05-25T22:10:22: GET / null 0ms
+2026-05-25T22:10:23: GET / null 1ms
+2026-05-25T22:10:24: GET / null 1ms
+2026-05-25T22:10:25: GET / null 1ms
+2026-05-25T22:10:38: GET / null 1ms
+2026-05-25T22:10:39: GET / null 1ms
+2026-05-25T22:10:40: GET / null 1ms
+2026-05-25T22:10:41: GET / null 0ms
+2026-05-25T22:10:41: GET / null 0ms
+2026-05-25T22:10:42: GET / null 1ms
+2026-05-25T22:10:43: GET / null 0ms
